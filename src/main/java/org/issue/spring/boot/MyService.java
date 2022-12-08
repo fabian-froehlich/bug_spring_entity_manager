@@ -1,6 +1,6 @@
 package org.issue.spring.boot;
 
-import javax.persistence.EntityManager;
+import jakarta.persistence.EntityManager;
 import org.springframework.stereotype.Service;
 
 @Service
